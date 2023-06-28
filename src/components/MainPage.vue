@@ -9,8 +9,8 @@
                         </h1>
                         <div class="shaktext">
                             <p>
-                                Сіз(дер)ді <br> ұлымыз Дәурен мен келініміз Ұлдананың						
-                                шаңырақ көтеру тойына арналған
+                                Сіз(дер)ді <br> аяулы қызымыз Ақеркенің						
+                                ұзату тойына арналған
                                 салтанатты ақ дастарханымыздың
                                 қадірлі қонағы болуға шақырамыз.
                             </p>
@@ -31,11 +31,11 @@
                                 Той иелері:
                             </div>
                             <div class="toi3">
-                                Дәулет-Арманай					</div>
+                                Марат-Алтынай					</div>
                             <div class="toi7"></div>
                             <div class="toi4">
                                 Тойдың басталу уақыты:<br>
-                                29.07.2023 / сағат 17:00					</div>
+                                19.08.2023 / сағат 17:00					</div>
                             <div class="toi5">
                                 Тойдың басталуына қалды:
                             </div>
@@ -52,10 +52,10 @@
                             <div class="toi8"></div>
                             <div class="toi9">Тойдың мекен-жайы:</div>
                             <div class="toi10">
-                                &ZeroWidthSpace;Керим Теленшин көшесі, 1/1 <br>
-                                <span>"Олжа" тойханасы</span><br><br>
+                                &ZeroWidthSpace;Ашимов көшесі, 13/1 <br>
+                                <span>Ресторан "Жибек жолы"</span><br><br>
                             </div>
-                            <a target="_blank" href="https://go.2gis.com/vafpjs" class="twogis">Карта арқылы ашу</a>
+                            <a target="_blank" href="https://2gis.kz/almaty/geo/70000001031375558" class="twogis">Карта арқылы ашу</a>
                         </div>
                     </div>
                 </div>
@@ -164,7 +164,7 @@ export default{
         this.$nextTick(() => {
             // конечная дата
             //const deadline = new Date(2022, 11, 05, 18:00:00);
-            const deadline = new Date(2023, 6, 29, 17, 0, 0);
+            const deadline = new Date(2023, 7, 19, 17, 0, 0);
             // new Date(yyyy, mm-1, dd, hh, mm, ss);
             // id таймера
             let timerId = null;
