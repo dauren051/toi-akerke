@@ -127,7 +127,8 @@ export default{
             let payload = {
                 variant:variant,
                 fio:fio,
-                greet:greet
+                greet:greet,
+                for:'Akerke'
             }
             this.sendMessage(payload)
         },
