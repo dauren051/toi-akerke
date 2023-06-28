@@ -17,7 +17,7 @@
   </template>
   
   <script>
-  import audioFile from "@/assets/audio/audio.mpeg";
+  import audioFile from "@/assets/audio/audio.mp3";
   export default {
     data() {
       return {
