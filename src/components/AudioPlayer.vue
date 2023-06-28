@@ -17,7 +17,7 @@
   </template>
   
   <script>
-  import audioFile from "@/assets/audio/Қазыбек Құрайыш - Махаббат деген.mp3";
+  import audioFile from "@/assets/audio/audio.mpeg";
   export default {
     data() {
       return {
